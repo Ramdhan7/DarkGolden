@@ -2,9 +2,9 @@
 # coding=utf-8
 #Do not recode
 #recode singles for life
-# (MR.ALI IMRAN) MAKER
-#SUBSCRIBE CHANNEL TechnicalAli433
-#FOLLOW INSTAGRAM @TechnicalAli433
+# (RAMDHAN RAMADHIAN) MAKER
+#SUBSCRIBE CHANNEL Ramdhan Ramadhian
+#FOLLOW INSTAGRAM @ramdhan._ramadhian._99
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
@@ -67,10 +67,10 @@ logo = """\033[1;96m█████████
 \033[1;96m█████████      \033[1;92m«----------✧----------»
 \033[1;96m ██ ██
 \033[1;96m╔══════════════════════════════════════════════╗
-\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mBrother•MR.ALI IMRAN \033[1;96m                ║
-\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/TechnicalAli433\033[0m \033[1;96m     ║
-\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://youtube.com/c/TechnicalAli433\033[0m \033[1;96m   ║
-\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@TechnicalAli433\033[0m \033[1;96m                   ║
+\033[1;96m║\033[1;96m* \033[1;95mAuthor  \033[1;93m: \033[1;95mRamdhan Ramadhian \033[1;96m                ║
+\033[1;96m║\033[1;96m* \033[1;96mGitHub  \033[1;93m: \033[1;96m\033[4mhttps://github.com/Ramdhan7[0m \033[1;96m     ║
+\033[1;96m║\033[1;96m*\033[1;93mYOUTUBE  \033[1;93m: \033[1;91m\033mhttps://m.youtube.com/channel/RamdhanRamadhian[0m \033[1;96m   ║
+\033[1;96m║\033[1;97m*\033[1;97mINSTAGRAM\033[1;92m: \033[1;96m\033m@@ramdhan._ramadhian._99[0m \033[1;96m                   ║
 \033[1;96m╚══════════════════════════════════════════════╝"""
 
 # titik #
